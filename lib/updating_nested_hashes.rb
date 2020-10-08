@@ -67,8 +67,6 @@ epic_tragedy[:additional_characters] = [
 {name: "Apothecary"}
 ]
 
-binding.pry
-
 
    # After your code, the following line will return the altered hash
    epic_tragedy
