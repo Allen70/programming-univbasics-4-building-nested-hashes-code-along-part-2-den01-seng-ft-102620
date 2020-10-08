@@ -69,8 +69,6 @@ def add_characters
 {name: "Apothecary"}
 ]
 }
-
-
 binding.pry
 
 
